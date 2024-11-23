@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'UrbanDjango1.wsgi.application'
+WSGI_APPLICATION = 'gamesstore.wsgi.application'
 
 
 # Database
