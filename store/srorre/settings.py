@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'UrbanDjango1.urls'
+ROOT_URLCONF = 'gamesstore.urls'
 
 TEMPLATES = [
     {
